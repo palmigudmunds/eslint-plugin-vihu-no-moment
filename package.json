@@ -1,6 +1,6 @@
 {
   "name": "vihu-eslint-no-moment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package with one eslint rule that forbids the moment library.",
   "main": "index.js",
   "scripts": {
