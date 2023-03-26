@@ -1,6 +1,6 @@
 {
-  "name": "vihu-eslint-no-moment",
-  "version": "1.0.2",
+  "name": "@palmigudmunds/eslint-plugin-vihu-no-moment",
+  "version": "1.0.3",
   "description": "Package with one eslint rule that forbids the moment library.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/palmigudmunds/vihu-eslint-no-moment.git"
+    "url": "https://github.com/palmigudmunds/eslint-plugin-vihu-no-moment.git"
   },
   "author": "Pálmi Guðmundsson",
   "license": "ISC",
@@ -23,7 +23,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-n": "^15.6.1",
     "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-vihu-eslint-no-moment": "./rules",
+    "eslint-plugin-vihu-no-moment": "./rules",
     "typescript": "^5.0.2"
   },
   "dependencies": {

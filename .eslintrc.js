@@ -10,8 +10,8 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
   },
-  plugins: ["@typescript-eslint", "vihu-eslint-no-moment"],
+  plugins: ["@typescript-eslint", "vihu-no-moment"],
   rules: {
-    "vihu-eslint-no-moment/no-moment": "error"
+    "vihu-no-moment/no-moment": "error"
   },
 };
