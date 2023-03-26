@@ -23,7 +23,7 @@
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-n": "^15.6.1",
     "eslint-plugin-promise": "^6.1.1",
-    "eslint-plugin-vihuassignments": "./rules",
+    "eslint-plugin-vihu-eslint-no-moment": "./rules",
     "typescript": "^5.0.2"
   },
   "dependencies": {
