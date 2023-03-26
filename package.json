@@ -1,0 +1,19 @@
+{
+  "name": "vihu-eslint-no-moment",
+  "version": "1.0.0",
+  "description": "Package with one eslint rule that forbids the moment library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmigudmunds/vihu-eslint-no-moment.git"
+  },
+  "author": "Pálmi Guðmundsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palmigudmunds/vihu-eslint-no-moment/issues"
+  },
+  "homepage": "https://github.com/palmigudmunds/vihu-eslint-no-moment#readme"
+}
