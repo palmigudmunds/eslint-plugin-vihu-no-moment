@@ -6,7 +6,7 @@ module.exports = {
       recommended: true,
     },
     messages: {
-      noMoment: "Do not use the 'moment' library, use 'date-fns' instead",
+      noMoment: "Do not use the 'moment' library",
     },
   },
   create: function (context) {
